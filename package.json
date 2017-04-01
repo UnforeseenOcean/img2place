@@ -1,0 +1,22 @@
+{
+  "name": "img2place",
+  "version": "1.0.0",
+  "description": "Makes place pixels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windsdon/img2place.git"
+  },
+  "author": "Windsdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Windsdon/img2place/issues"
+  },
+  "homepage": "https://github.com/Windsdon/img2place#readme",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  }
+}
